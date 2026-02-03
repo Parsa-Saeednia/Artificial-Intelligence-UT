@@ -1,2 +1,52 @@
-# ce-spring2025-ai
-University of Tehran CE - Artificial Intelligence (Spring 2025) | Search Algorithms, Genetic/Minimax, Decision Trees, Neural Networks (FCNN/CNN), Clustering
+# Artificial Intelligence (CE)
+
+## University of Tehran — Spring 2025
+
+### Course Overview
+This repository serves as a **course hub** for the Artificial Intelligence course offered in the Computer Engineering program at the University of Tehran (Spring 2025).
+
+The course focuses on the **implementation of classical and modern AI algorithms**, with emphasis on problem-solving, algorithmic reasoning, and practical experimentation.
+
+### Topics Covered
+- Uninformed and informed search (BFS, DFS, UCS, Greedy, A*)
+- Game-playing algorithms (Minimax)
+- Genetic algorithms
+- Decision tree classification
+- Neural networks (FCNN, CNN)
+- Unsupervised learning and clustering
+
+---
+
+## Course Assignments
+
+Each assignment is implemented in a **separate repository**, linked below.
+
+| Assignment | Focus Area | Repository |
+|-----------|------------|------------|
+| **CA1** | Search Algorithms (BFS, DFS, UCS, Greedy, A*) | `ce-ai-search-algorithms` |
+| **CA2** | Genetic Algorithms & Minimax | `ce-ai-genetic-minimax` |
+| **CA3** | Decision Tree Classification | `ce-ai-decision-trees` |
+| **CA4** | Neural Networks (FCNN & CNN) | `ce-ai-neural-nets` |
+| **CA5** | Clustering Algorithms | `ce-ai-clustering` |
+
+> Each assignment repository includes a dedicated README describing the problem formulation, implemented algorithms, and execution instructions.
+
+---
+
+## Technologies
+- Python
+- NumPy
+- Matplotlib
+- scikit-learn
+- PyTorch
+
+---
+
+## Notes
+- All implementations were developed as part of the official coursework.
+- Code is written for educational and experimental purposes.
+
+---
+
+## License
+This project is licensed under the MIT License.
