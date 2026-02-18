@@ -45,8 +45,3 @@ Each assignment is implemented in a **separate repository**, linked below.
 ## Notes
 - All implementations were developed as part of the official coursework.
 - Code is written for educational and experimental purposes.
-
----
-
-## License
-This project is licensed under the MIT License.
