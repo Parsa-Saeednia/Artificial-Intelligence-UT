@@ -23,7 +23,7 @@ Each assignment is implemented in a **separate repository**, linked below.
 
 | Assignment | Focus Area | Repository |
 |-----------|------------|------------|
-| **CA1** | Search Algorithms (BFS, DFS, UCS, Greedy, A*) | `ce-ai-search-algorithms` |
+| **CA1** | State-Space Search (BFS, DFS, UCS, Greedy, A\*) | [ai-state-space-search](https://github.com/Parsa-Saeednia/ai-state-space-search) |
 | **CA2** | Genetic Algorithms & Minimax | `ce-ai-genetic-minimax` |
 | **CA3** | Decision Tree Classification | `ce-ai-decision-trees` |
 | **CA4** | Neural Networks (FCNN & CNN) | `ce-ai-neural-nets` |
@@ -31,7 +31,6 @@ Each assignment is implemented in a **separate repository**, linked below.
 
 > Each assignment repository includes a dedicated README describing the problem formulation, implemented algorithms, and execution instructions.
 
----
 
 ## Technologies
 - Python
