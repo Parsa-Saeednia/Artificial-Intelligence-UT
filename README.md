@@ -26,7 +26,7 @@ Each assignment is implemented in a **separate repository**, linked below.
 | **CA1** | State-Space Search (BFS, DFS, UCS, Greedy, A\*) | [ai-state-space-search](https://github.com/Parsa-Saeednia/ai-state-space-search) |
 | **CA2** | Genetic Algorithms & Minimax | [ai-evolutionary-adverserial-search](https://github.com/Parsa-Saeednia/ai-evolutionary-adversarial-search) |
 | **CA3** | Decision Tree Classification | [ce-ai-decision-trees](https://github.com/Parsa-Saeednia/ai-student-performance-classification) |
-| **CA4** | Neural Networks (FCNN & CNN) | `ce-ai-neural-nets` |
+| **CA4** | Neural Networks (FCNN & CNN) | [ce-ai-neural-nets](https://github.com/Parsa-Saeednia/ai-image-classification-neural-networks) |
 | **CA5** | Clustering Algorithms | `ce-ai-clustering` |
 
 > Each assignment repository includes a dedicated README describing the problem formulation, implemented algorithms, and execution instructions.
